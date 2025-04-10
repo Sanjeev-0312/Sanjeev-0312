@@ -7,7 +7,7 @@ I'm a full-stack developer passionate about building efficient, scalable web app
 
 ## 👨‍💻 Talking About Me:
 
-- 🌱 Currently learning: **React Native**
+- 🌱 Currently learning: **Mern Stack**
 - 👯 Open to collaborating on: **Open-source projects**, **Tech talks**, and **Hackathons**
 - 💡 Always exploring: **New frameworks**, **APIs**, and **automations**
 - 🎨 Hobbies include: **Chess**, **Music Production**, and **Content Creation**
