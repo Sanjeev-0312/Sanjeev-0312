@@ -7,21 +7,11 @@ I'm a full-stack developer passionate about building efficient, scalable web app
 
 ## 👨‍💻 Talking About Me:
 
-- 🌱 Currently learning: **React Native**, **Machine Learning**, and **DevOps**
+- 🌱 Currently learning: **React Native**
 - 👯 Open to collaborating on: **Open-source projects**, **Tech talks**, and **Hackathons**
 - 💡 Always exploring: **New frameworks**, **APIs**, and **automations**
 - 🎨 Hobbies include: **Chess**, **Music Production**, and **Content Creation**
-- 📫 Reach me at: **your-email@example.com**
-
----
-
-## 🔨 What I'm Currently Working On
-
-| Project       | Description                                                                 |
-|---------------|-----------------------------------------------------------------------------|
-| **School ERP** | A complete ERP system with dual access for admins and teachers. It manages student records, attendance, fees, hostel info, and academic performance with a focus on data security and usability. |
-
----
+- 📫 Reach me at: **0312sanjeev@gmail.com**
 
 ## 🛠 Tech Stack
 
