@@ -26,12 +26,16 @@ I'm a full-stack developer passionate about building efficient, scalable web app
 ## 🛠 Tech Stack
 
 **Languages & Tools**  
-Java • Python • JavaScript • TypeScript  
-HTML • CSS • TailwindCSS • Bootstrap  
-React • Next.js • Node.js • Express  
-PostgreSQL • MySQL • MongoDB  
-NumPy • Pandas • Scikit-learn  
-Git • GitHub • Linux (Ubuntu)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
 
 ---
 
