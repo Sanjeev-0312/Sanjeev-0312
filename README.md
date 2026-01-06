@@ -12,6 +12,7 @@ I'm a full-stack developer passionate about building efficient, scalable web app
 - 💡 Always exploring: **New frameworks**, **APIs**, and **automations**
 - 🎨 Hobbies include: **Chess**, **Music Production**, and **Content Creation**
 - 📫 Reach me at: **0312sanjeev@gmail.com**
+- 📫 Reach me at My Portfolio: **https://sanjeevchauhanportfolio.netlify.app/**
 
 ## 🛠 Tech Stack
 
